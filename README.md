@@ -2,7 +2,7 @@
 
 
 ## 使用方法
-###先make file
+先make file
 
 ### add [filename]
 參數檔案內 Key, Value 加入於 Disk Hash
