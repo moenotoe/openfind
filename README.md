@@ -24,3 +24,8 @@
 資料找不到則是顯示 “NOT FOUND”，或者其他錯誤則是顯示 “FAILUER”。
 #### 命令格式
 ./disk export key filename
+
+###  clean
+把在index file isDelete=false 對應的 value 重新寫到新的file
+#### 命令格式
+./disk clean
