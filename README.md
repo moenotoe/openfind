@@ -1,4 +1,3 @@
-.# Disk Hash Table
 
 
 ## 使用方法
